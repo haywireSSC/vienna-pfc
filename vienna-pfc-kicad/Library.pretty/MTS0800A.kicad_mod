@@ -1,0 +1,119 @@
+(footprint "MTS0800A"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*4.5mm^2, Capacitor")
+	(tags "C Rect series Radial pin pitch 5.00mm  length 7mm width 4.5mm Capacitor")
+	(property "Reference" "REF**"
+		(at 2.5 -3.5 0)
+		(layer "F.SilkS")
+		(uuid "f6d64243-40aa-471c-9d5a-4ee1d332d2ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MTS0800A"
+		(at 2.5 3.5 0)
+		(layer "F.Fab")
+		(uuid "04f491bb-2df4-4cbe-8788-1d76e29f0c0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77193848-0358-4ce7-a188-5925880e5cb8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a580e88-5038-49bc-b52e-6657e0adaa50")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb6c93a3-c524-4e61-ac8d-26e520603c63")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -4.3 -2.1)
+		(end 4.3 2.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "918d9877-2ede-402b-a7ff-843dd2e937c4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5 0 0)
+		(layer "F.Fab")
+		(uuid "3cb91a38-372c-41a6-9592-e0948055b583")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.5 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "115c72ab-9898-42f4-b870-411803c60e45")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "68dbc403-1b4e-4033-a0c0-4da3a4756725")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.wrl"
+		(offset
+			(xyz -3 0 0)
+		)
+		(scale
+			(xyz 1.2 0.9 0.7)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

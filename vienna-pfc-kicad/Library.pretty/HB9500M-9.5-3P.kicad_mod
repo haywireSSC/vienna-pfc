@@ -1,0 +1,331 @@
+(footprint "HB9500M-9.5-3P"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 4.677223 -0.471401 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "520792b6-e6e2-4fbc-ad2f-6859fa07ce8b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "HB9500M-9.5-3P"
+		(at 4.677223 1.028599 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "08124be9-5a5c-41df-84e7-ff8b8dfb0301")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 4.677223 0.028599 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6d7d255-ceca-46dd-bf84-4ed2a7716310")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 4.677223 0.028599 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07ed5e53-e0ac-4d98-ab45-f4636c7bf468")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -15.080022 7.540539)
+		(end -15.080022 -8.459461)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "df52a8a2-06e0-45a1-98eb-58f00dd5f9cc")
+	)
+	(fp_line
+		(start -15.080022 7.540539)
+		(end 15.002573 7.538447)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e042cc12-317f-40bf-ba3b-5f180b375f8a")
+	)
+	(fp_line
+		(start -13.780022 -6.259461)
+		(end -13.780022 7.540539)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bfe96965-c197-44e8-80da-38d8c2db7e46")
+	)
+	(fp_line
+		(start -10.994522 1.424039)
+		(end -8.166022 -1.403961)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "daa01962-0042-4355-9564-689768ff40e4")
+	)
+	(fp_line
+		(start -8.166022 1.424039)
+		(end -10.994522 -1.403961)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "50a249f3-6623-48a9-a660-8c2b5f3dbc21")
+	)
+	(fp_line
+		(start -5.480522 7.540539)
+		(end -5.480522 -6.259461)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f09d1318-b3bf-43b3-9250-09db490d0726")
+	)
+	(fp_line
+		(start -4.196927 -6.261553)
+		(end -4.196927 7.538447)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "30c9c61c-d2b7-46eb-9745-78523a2d0bdf")
+	)
+	(fp_line
+		(start -4.180522 7.540539)
+		(end -4.180522 -6.259461)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3cc612f3-5c56-4327-9204-2d4d1332067a")
+	)
+	(fp_line
+		(start -1.411427 1.421947)
+		(end 1.417073 -1.406053)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f453fd09-1518-477c-8963-146b06b43d28")
+	)
+	(fp_line
+		(start 1.417073 1.421947)
+		(end -1.411427 -1.406053)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c29530c0-2b06-4433-91f8-61ef94542d6d")
+	)
+	(fp_line
+		(start 4.102573 7.538447)
+		(end 4.102573 -6.261553)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9395ce14-628a-437f-85ae-ed90f5b3c9a1")
+	)
+	(fp_line
+		(start 5.402573 7.538447)
+		(end 5.402573 -6.261553)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "63061bb8-514e-41b9-a72f-939db47a8b98")
+	)
+	(fp_line
+		(start 8.018073 1.491947)
+		(end 10.846573 -1.336053)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2299e7a5-5d85-486d-81ea-45006d9e6416")
+	)
+	(fp_line
+		(start 10.846573 1.491947)
+		(end 8.018073 -1.336053)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3ec08ab2-c04e-40af-ae78-d4b1d770fcc5")
+	)
+	(fp_line
+		(start 13.602573 7.538447)
+		(end 13.602573 -6.261553)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e4ecd0ee-937a-4945-bf12-ee0c929839b7")
+	)
+	(fp_line
+		(start 15.002093 -6.318567)
+		(end -15.070668 -6.318567)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ea6f0bb2-21ec-4df6-afdf-540979a6c39d")
+	)
+	(fp_line
+		(start 15.002573 -8.461553)
+		(end -15.080022 -8.459461)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e1b3cba5-c36b-4278-a145-f7d5e12d3afa")
+	)
+	(fp_line
+		(start 15.002573 -8.461553)
+		(end 15.002573 7.538447)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "358c8a6f-057b-4dc6-9798-e9dee7f246d4")
+	)
+	(fp_circle
+		(center -9.580522 0.010039)
+		(end -7.080522 0.010039)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "aa8e5e33-0c60-42ac-a1a9-8213d957114c")
+	)
+	(fp_circle
+		(center 0.002573 0.007947)
+		(end 2.502573 0.007947)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "bddcefd1-32a9-434f-8813-9adb75e77e81")
+	)
+	(fp_circle
+		(center 9.432323 0.077947)
+		(end 11.932323 0.077947)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "21cc2645-95f2-49e6-925a-5588a4a11fcb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 4.677223 2.528599 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7b42bbfb-4f03-46e6-96c7-89cd21c91c66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -9.580522 -4.512053)
+		(size 3.2 3.2)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "abb89973-9778-4998-be35-7b4af1a376a0")
+	)
+	(pad "2" thru_hole circle
+		(at 0.002573 -4.512053)
+		(size 3.2 3.2)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d7a4f4b2-776e-43fb-be9a-21a004f56b48")
+	)
+	(pad "3" thru_hole circle
+		(at 9.502573 -4.512053)
+		(size 3.2 3.2)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2c030c87-6746-4ee8-ad71-1824c76fb792")
+	)
+	(embedded_fonts no)
+	(model "/home/haywire/Projects/electronics/models/terminalblock/Barrier Terminal Block 95mm 2-Pins.STEP"
+		(hide yes)
+		(offset
+			(xyz 10.5 9 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+	(model "/home/haywire/Projects/electronics/models/KF7_62-3P.STEP"
+		(offset
+			(xyz 13 0 0)
+		)
+		(scale
+			(xyz 1.2 1 1.2)
+		)
+		(rotate
+			(xyz -90 0 -180)
+		)
+	)
+)
